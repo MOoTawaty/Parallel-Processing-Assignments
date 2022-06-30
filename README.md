@@ -47,4 +47,4 @@ This problem from n = 1 to infinite will converge to 1 at the end try to reach t
 and print the error value as your expected result = 1 ( error = expected - calculated)
 
 
-# To run these programs you need vertual nachine like VirtualBox
+# To run these programs you need virtual machine like VirtualBox
