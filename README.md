@@ -36,9 +36,8 @@ You should handle invalid input.
 # Assignment 4
 MPI & OpenMP
 Sum of Convergent Series
-Write c code to solve this problem using hybrid programming.
-This problem from n = 1 to infinite will converge to 1 at the end try to reach this result
-and print the error value as your expected result = 1 ( error = expected - calculated)
-![imaget](/posts/path/to/img.jpg "Optional title")
+
+![01](https://user-images.githubusercontent.com/36418892/176723390-92a58fa6-9174-4c93-a279-988cfe84fa1c.JPG)
+
 
 # To run these programs you need virtual machine like VirtualBox
