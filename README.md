@@ -28,15 +28,7 @@ by ‘X’. A ‘O’ (or a set of ‘O’) is considered to be surrounded by �
 locations just left and just right of it.
 O’s at the edges will not be replaced
 You should handle invalid input.
-Sample input :
-6 5 Sample output :
-X O X| X X X X X X X
-X O X| O X X X X X X
-O X O| O X O X O O X
-- - - 
-X X X X X X X X X X
-X O O X X X O O X X
-O X O X O O X X X O
+
 ![image](https://user-images.githubusercontent.com/36418892/176719047-c1827f99-1e3a-48a8-8307-506e7086e3d4.png)
 
 
