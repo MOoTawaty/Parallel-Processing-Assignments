@@ -39,7 +39,6 @@ Sum of Convergent Series
 Write c code to solve this problem using hybrid programming.
 This problem from n = 1 to infinite will converge to 1 at the end try to reach this result
 and print the error value as your expected result = 1 ( error = expected - calculated)
-<img src="file:///C:/Users/lenovo/Desktop/01.JPG">
-
+![image](https://user-images.githubusercontent.com/C:/Users/lenovo/Desktop/01.JPG)
 
 # To run these programs you need virtual machine like VirtualBox
